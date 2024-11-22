@@ -1,11 +1,10 @@
 ## 👋 Hi, I’m Roy
 - 🏋️‍ I am into lifting heavy stuff and coding
 - 📷 [Instagram](https://www.instagram.com/lockout.lotzwik/)
-- 🌱 I’m currently learning React-Native
 
 In my free time I like to pick up small projects which I think are useful for me and others.
 Currently in progress:
-- [Payback Scanner](https://github.com/Roy0815/payback-scanner): Mobile app that will allow scanning receipts and messaging Payback automatically about missing points
+- [Slack Service Bot for our Non-Profit](https://github.com/Roy0815/slack-service-bot): An Application for Slack that helps our Non-Profit sports club with useful functions that save time and streamline workflows.
 - [Slack Openpowerlifting Bot](https://github.com/Roy0815/slack-openpl-bot): API for Slack that will integrate data from https://www.openpowerlifting.org/
 
 <!---
